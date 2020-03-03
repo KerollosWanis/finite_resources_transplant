@@ -1,9 +1,6 @@
 # Causal inference with limited resources: proportionally-representative interventions
 # Introduction
-Here we provide the code to reproduce the analysis described in: 
-
-### Citation
-
+Here we provide the code to reproduce the analysis described in: Sarvet AL, Wanis KN, Young J, Hernandez-Alejandro R, Hernán MA, Stensrud MJ. Causal inference with limited resources: proportionally-representative interventions. arXiv preprint arXiv:2002.11846. 2020 Feb 27.
 > 
 
 # Abstract

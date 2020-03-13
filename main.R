@@ -1,9 +1,3 @@
-
-# This code reproduces the analyses from Wanis KN, Sarvet A, Hernandez-Alejandro R, Hernan M, Stensrud MJ
-# Emulating a trial of a policy intervention in the setting of finite treatment resources: 
-# an application to increased risk organ transplantation 
-# published in 
-
 # First load and install the following packages which we will need for data cleaning and analysis.
 
 requiredPackages = c(
